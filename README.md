@@ -103,4 +103,4 @@
 - 필요한 라이브러리는 `requirements.txt`에 작성되어 있다.
 
 ## 배포(선택)
-- 스트림릿 주소:
+- 스트림릿 주소: https://rul123.streamlit.app/
